@@ -1,0 +1,20 @@
+{
+  "name": "shorten-js-angular",
+  "version": "0.0.0",
+  "homepage": "https://github.com/waltzofpearls/shorten-js-angular",
+  "authors": [
+    "Rollie Ma <rollie.ma@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.4.x",
+    "angular-animate": "1.4.x",
+    "angular-mocks": "1.4.x",
+    "angular-resource": "1.4.x",
+    "angular-route": "1.4.x",
+    "bootstrap": "~3.1.1",
+    "jquery": "~2.1.1",
+    "lodash": "~3.10.1"
+  }
+}
